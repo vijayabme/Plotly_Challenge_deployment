@@ -1,0 +1,18 @@
+body {
+    background-color: whitesmoke;
+    color: black;
+  }
+.well { background-color: lightblue; 
+  font-weight: bold;}
+/* background-color: brown; */
+/* #selDataset { background-color: black; } */
+/* .panel-body { background-color: lightblue; }  */
+#sample-metadata { background-color: lightblue;  
+} 
+  .jumbotron {
+    background-image: url("../images/gutbacteria3.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+    color: white;
+  }
+
