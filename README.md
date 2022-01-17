@@ -1,6 +1,6 @@
 # Plotly_Challenge_deployment
 ### Objective:
-The purpose of this challenge is to create a dashboard in HTML to display the BellyButton bio diversity in each of the subject samples.
+Using Plotly a Javascript data visualization library created an interactive data visualization for the web. The dashboard displays bar chart, bubble chart and a gauge to showcase the BellyButton bio diversity in each of the subject samples.
 Tools: HTML, Javascript, CSS
 
 ### Summary
